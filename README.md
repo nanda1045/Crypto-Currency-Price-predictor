@@ -28,16 +28,16 @@ a flask server,can be deployed into cloud services like heroku,aws,google cloud 
 ```bash
   $ pip install -r /path/to/requirements.txt
 ```
-- Than run the app.py 
+- Then run the app.py 
 ```bash
   $ python3 app.py
 ```
 - A link will appear on the command line copy it and paste it in the browser
 
-    by default it runs in the following website http://127.0.0.1:5000/
+    by default, it runs on the following website http://127.0.0.1:5000/
     
 
 
 ## Feedback
 
-If you have any feedback, please reach out at [linkedin](https://www.linkedin.com/in/avinash-vangapandu-11124b1aa/)
+If you have any feedback, please reach out at [linkedin](www.linkedin.com/in/nanda-kishore-v)
