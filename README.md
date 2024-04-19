@@ -1,9 +1,9 @@
 
 # CRYPTO CURRENCY PRICE PREDICTOR
 
-A end-to-end project that predicts price of the Bitcoin, Ethereum,  XRP, Litecoin and Decentraland
-obtaing data from the yahoo finance api and predicts using Tensorflow's Long term short term memory layer and runs on 
-a flask server,can be deployed into cloud services like heroku,aws,google cloud etc..
+An end-to-end project that predicts the price of the Bitcoin, Ethereum,  XRP, Litecoin, and Decentraland
+obtaining data from the Yahoo finance api and predicting using TensorFlow's Long-term term short-term memory layer and running on 
+a flask server can be deployed into cloud services like Heroku, AWS, Google Cloud, etc..
 
 <img src="https://github.com/vavinash992/crypto-currency-price-predictor/blob/main/images/ezgif.com-gif-maker.gif" width="640" height="360"/>
 <p float="left">
@@ -38,6 +38,3 @@ a flask server,can be deployed into cloud services like heroku,aws,google cloud 
     
 
 
-## Feedback
-
-If you have any feedback, please reach out at [linkedin](www.linkedin.com/in/nanda-kishore-v)
