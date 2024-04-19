@@ -1,0 +1,2 @@
+# Crypto-Currency-Price-predictor
+A end-to-end project that predicts price of the Bitcoin, Ethereum, XRP, Litecoin and Decentraland obtaing data from the yahoo finance api and predicts using Tensorflow's Long term short term memory layer and runs on a flask server,can be deployed into cloud services like heroku,aws,google cloud etc..
